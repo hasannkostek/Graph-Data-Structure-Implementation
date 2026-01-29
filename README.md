@@ -26,5 +26,5 @@ myGraph.addNode("B")
 myGraph.addEdge("A", "B", 10)
 ```
 
-👨‍💻 Geliştirici
+👨‍💻 Geliştirici:
 Hasan Köstek
